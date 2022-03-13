@@ -1,0 +1,4 @@
+pandas
+bokeh
+holoviews
+seaborn
