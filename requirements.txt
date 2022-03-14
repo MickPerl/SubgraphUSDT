@@ -2,3 +2,4 @@ pandas
 bokeh
 holoviews
 seaborn
+nbconvert
